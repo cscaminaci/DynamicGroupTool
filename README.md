@@ -13,3 +13,4 @@ group with membership to an AD security group and assign all the necessary value
 You will need to do that yourself to allow the new group to sync from on-prem. (This process assumes you have a hybrid setup or you have extended your AD schema with
 the msEXCH attributes)
 4. You can also load a CSV of users in that it will parse and create the group with.
+![image](https://user-images.githubusercontent.com/68078971/199983488-81c9eeb7-7a68-419f-8a50-f2a1a345dc3d.png)
